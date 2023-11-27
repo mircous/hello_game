@@ -19,6 +19,3 @@ rezo gabaidze
 
 
 
-
-
-#akhvlediani

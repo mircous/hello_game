@@ -1,2 +1,2 @@
 print("Giorgi Gujabidze - mircous")
-print("Saba Bliadze - 
+print("Saba Bliadze - ghost" ) 

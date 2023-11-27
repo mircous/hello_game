@@ -1,5 +1,8 @@
 print("Giorgi Gujabidze - mircous")
 
+
+print("programming is funny if you love it")
+
 print("Saba Bliadze - ghost" ) 
 
 
@@ -28,4 +31,5 @@ print("aleqsandre")
 
 
 #akhvlediani
+
 

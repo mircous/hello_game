@@ -6,7 +6,7 @@ print("Giorgi Gujabidze - mircous")
 #
 #es iliam dawera
 
-
+ra male gavida 1 saati
 #sandro
 print("edited")
 

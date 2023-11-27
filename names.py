@@ -1,5 +1,8 @@
 print("Giorgi Gujabidze - mircous")
 
+print("Saba Bliadze - ghost ")
+print("https://spinningrat.online")
+
 
 print("programming is funny if you love it")
 

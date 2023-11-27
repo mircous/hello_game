@@ -1,4 +1,3 @@
 print("Giorgi Gujabidze - mircous")
-#Giorgi
-#
-rezo gabaidze
+
+print("programming is funny if you love it")

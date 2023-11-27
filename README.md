@@ -1,3 +1,3 @@
 # hello_game
 finding game
-Giorgi Gujabidze - mircous
+1.edit names.py

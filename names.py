@@ -11,7 +11,7 @@ print("Saba Bliadze - ghost" )
 
 #საბა მუჯირიშვილი
 
-
+!
 #
 #es iliam dawera
 

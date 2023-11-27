@@ -1,5 +1,9 @@
 print("Giorgi Gujabidze - mircous")
 
+#
+#es iliam dawera
+
+
 #sandro
 print("edited")
 
@@ -9,4 +13,5 @@ print("edited")
 print("teodore janiashvili - splashjanski")
 
 rezo gabaidze
+
 

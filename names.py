@@ -1,4 +1,4 @@
-print("Giorgi Gujabidze - mircous")
+print("Giorgi Gujabidze - mircous 28")
 
 print("Saba Bliadze - ghost ")
 print("https://spinningrat.online")
